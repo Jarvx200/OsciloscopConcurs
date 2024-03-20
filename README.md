@@ -29,6 +29,6 @@ Bine ai venit la proiectul Osciloscopul Arduino! 🚀 Transformă-ți Arduino-ul
 4. Experimentați cu diferite forme de undă și setări pentru a vizualiza diferite semnale.
 
 ## Credite
-Acest proiect a fost inspirat de comunitatea makerilor și dezvoltat de [Cezar Bigu] și [Stefan Daraban].
----
+
+Acest proiect a fost dezvoltat de [Cezar Bigu] și [Stefan Daraban].
 
